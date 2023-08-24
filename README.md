@@ -1,9 +1,12 @@
 
 # Discord Bot - Practice Bot
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/practice-bot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/practice-bot?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/practice-bot)
+
+[![GitHub stars](https://img.shields.io/github/stars/RAPTOR-sr/Discord_bot?style=social)](https://github.com/RAPTOR-sr/Discord_bot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/RAPTOR-sr/Discord_bot?style=social)](https://github.com/RAPTOR-sr/Discord_bot/network)
+[![GitHub issues](https://img.shields.io/github/issues/RAPTOR-sr/Discord_bot)](https://github.com/RAPTOR-sr/Discord_bot/issues)
+![GitHub license](https://img.shields.io/github/license/RAPTOR-sr/Discord_bot)
+
 
 ## Overview
 
