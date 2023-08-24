@@ -1,3 +1,2 @@
-Bot_token = 'MTA4ODE0MzIyODYxNzkwNDI4MQ.GjjRpd.Lodjlhw4xRSOm8EZCAW1305sQ71e8Ndxmg1u-U'
-RapidAPI_key = '899175fabbmsh2026a376b9d0936p1b3b14jsn7cf761b1a042'
-Bot_token_2 = '7dcab194fd8b2a9b7c275f50a432fddf1bb043e19ed02a69089dd2ee83f0ac28'
+Bot_token = '[YOUR BOT TOKEN]'
+RapidAPI_key = '[YOUR API KEY]'
