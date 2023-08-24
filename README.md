@@ -1,7 +1,3 @@
-# Discord_Bot
-Creating a good GitHub repository description is essential for attracting contributors and providing clear information about your project. Here's a well-structured description for your Discord bot GitHub repository:
-
----
 
 # Discord Bot - Practice Bot
 
